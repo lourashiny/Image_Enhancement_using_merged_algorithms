@@ -1,4 +1,5 @@
 -------------------------------Image Enhancement using Merged Algorithms---------------------------------------
+
 The Program has 11 files that is needed to run it.
 1. All J_*.m files
 2. Evaluation.m files for perfomance metrics calculation
